@@ -155,6 +155,11 @@ args:
   skipCreatingSccImpersonationResources: false
   # required for OCP cluster
   # sccsupport: "*"
+  git-email: "saurabhkothari@rocketmail.com"
+  git-secret-name: "github"
+  git-secret-namespace: "kubeturbo"
+  git-username: "saurabhkothari"
+  git-commit-mode: "request"
 
 resources: {}
 
